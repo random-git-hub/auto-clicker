@@ -15,12 +15,11 @@
 
 3. 📂 MAKE SURE YOU HAVE THIS STRUCTURE:
 
-   "Clicker" folder
-   └── auto_clicker.exe
-   └── languages/          ← THIS IS A FOLDER!
-        ├── russian.json
-        ├── english.json
-        └── ...
+   "Clicker" folder                                └── auto_clicker.exe
+                                                       └── languages/          ← THIS IS A FOLDER!
+                                                       ├── russian.json
+                                                       ├── english.json
+                                                       └── ...
 
 4. ▶️ RUN auto_clicker.exe
 
