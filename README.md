@@ -1,53 +1,48 @@
 # auto-clicker
-╔══════════════════════════════════════════════════════════╗
-║          🖱️  АВТО КЛИКЕР - ИНСТРУКЦИЯ  🖱️               ║
-╚══════════════════════════════════════════════════════════╝
-
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃   🔴 ВНИМАНИЕ! ПРОЧТИТЕ ПЕРЕД ЗАПУСКОМ!                 ┃
+┃                    📌 INSTRUCTIONS                       ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-❌ НЕ ЗАПУСКАЙТЕ ПРОГРАММУ ПРЯМО ИЗ АРХИВА!
+⚠️ ATTENTION! READ BEFORE LAUNCHING!
 
-✅ ЧТОБЫ ВСЁ РАБОТАЛО:
+❌ DO NOT RUN THE PROGRAM DIRECTLY FROM THE ARCHIVE!
 
-1. 📁 СОЗДАЙТЕ ПАПКУ на рабочем столе (например "Кликер")
+✅ FOR THE PROGRAM TO WORK PROPERLY:
 
-2. 📂 РАСПАКУЙТЕ ВСЕ ФАЙЛЫ из архива в эту папку
+1. 📁 CREATE A FOLDER on your desktop (e.g. "Clicker")
 
-3. 👇 УБЕДИТЕСЬ ЧТО У ВАС ТАК:
-   ________________________________________
-   Папка "Кликер"
+2. 📦 EXTRACT ALL FILES from the archive into this folder
+
+3. 📂 MAKE SURE YOU HAVE THIS STRUCTURE:
+
+   "Clicker" folder
    └── auto_clicker.exe
-   └── languages/          ← ЭТО ПАПКА!
+   └── languages/          ← THIS IS A FOLDER!
         ├── russian.json
         ├── english.json
         └── ...
 
-4. ▶️ ЗАПУСТИТЕ auto_clicker.exe
+4. ▶️ RUN auto_clicker.exe
 
-5. 🌍 ПРИ ПЕРВОМ ЗАПУСКЕ выберите язык
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎯 ЕСЛИ ПРОГРАММА НА АНГЛИЙСКОМ:
-   ➡️ Значит папка "languages" не рядом с .exe файлом
-
-🛡️ ЕСЛИ АНТИВИРУС РУГАЕТСЯ:
-   ➡️ Добавьте папку с программой в исключения
+5. 🌍 SELECT YOUR LANGUAGE on first launch
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🌍 10 ЯЗЫКОВ В ПРОГРАММЕ:
-🇷🇺 Русский    🇬🇧 English    🇨🇳 中文
-🇪🇸 Español    🇫🇷 Français   🇩🇪 Deutsch
-🇯🇵 日本語      🇸🇦 العربية    🇮🇳 हिन्दी
-🇧🇷 Português
+❓ IF PROGRAM OPENS IN ENGLISH:
+   ➡️ The "languages" folder is not next to the .exe file
+
+🛡️ IF ANTIVIRUS WARNS YOU:
+   ➡️ Add the program folder to antivirus exceptions
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📞 ПО ВОПРОСАМ: @ваш_телеграм
+🌍 10 LANGUAGES IN THE PROGRAM:
 
+   🇷🇺 Russian     🇬🇧 English     🇨🇳 Chinese
+   🇪🇸 Spanish     🇫🇷 French      🇩🇪 German
+   🇯🇵 Japanese    🇸🇦 Arabic      🇮🇳 Hindi
+   🇧🇷 Portuguese
+   
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                     УДАЧИ! 🍀
+                        GOOD LUCK! 🍀
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
