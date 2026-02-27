@@ -1,6 +1,6 @@
 # auto-clicker
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                    📌 INSTRUCTIONS                       
+📌 INSTRUCTIONS                       
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ⚠️ ATTENTION! READ BEFORE LAUNCHING!
