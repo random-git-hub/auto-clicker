@@ -1,64 +1,53 @@
 # auto-clicker
-╔════════════════════════════════════════════╗ 
-║ 🎯 AVTO KLIKER - VAZHNAYA INFORMATSIYA 🎯 ║ 
-╚════════════════════════════════════════════╝
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📋 SODERZHIMOYe ARKHIVA
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📦 auto_clicker.exe - Osnovnoy fayl programmy 
-languages/ - Papka s faylami perevodov (10 yazykov) 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⚠️ VAZHNOYe PREDUPREZHDENIYe ⚠️ 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-❌ NE PYTAYTES' ZAPUSTIT' PROGRAMMU PRYAMO IZ ARKHIVA! 
-❌ NE UDALYAYTE PAPKU languages! 
-✅ PROGRAMMA BUDET RABOTAT' TOL'KO YESLI: 
-📂 VSE FAYLY RASPAKOVANY V ODNU PAPKU 
-PAPKA languages NAKHODITSYA RYADOM S auto_clicker.exe
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🚀 KAK USTANOVIT'
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-────────────────────────────────────────────────────────────┐ 
-│ SHAG 1: Sozdayte na rabochem stole papku "AutoClicker" │ 
-│ SHAG 2: Raspakuyte VSE fayly iz arkhiva v etu papku │ 
-│ SHAG 3: Ubedites', chto papka languages tozhe tam │ 
-│ SHAG 4: Zapustite fayl auto_clicker.exe │ 
-│ SHAG 5: Pri pervom zapuske vyberite yazyk │
-│ SHAG 6: Pol'zuytes'! 🎉 │ 
-└───────────────────────────────────────────────────────────┘ 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✅ PRAVIL'NAYA STRUKTURA 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📁 C:\Users\...\AutoClicker\ │
-├── 📦 auto_clicker.exe
-└── 📁 languages/
-├── 🇷🇺 russian.json 
-├── 🇬🇧 english.json 
-├── 🇨🇳 chinese.json 
-└── ... (ostal'nyye fayly) 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-❌ NEPRAVIL'NAYA STRUKTURA
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📁 C:\Users\...\Desktop\ │ 
-├── 📦 auto_clicker.exe 
-├── 🇷🇺 russian.json ← ❌ ETI FAYLY DOLZHNY BYT' V PAPKE! 
-└── 🇬🇧 english.json ← ❌ BEZ PAPKI NE RABOTAYET! 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-❓ CHASTYYe PROBLEMY 
+╔══════════════════════════════════════════════════════════╗
+║          🖱️  АВТО КЛИКЕР - ИНСТРУКЦИЯ  🖱️               ║
+╚══════════════════════════════════════════════════════════╝
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃   🔴 ВНИМАНИЕ! ПРОЧТИТЕ ПЕРЕД ЗАПУСКОМ!                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+❌ НЕ ЗАПУСКАЙТЕ ПРОГРАММУ ПРЯМО ИЗ АРХИВА!
+
+✅ ЧТОБЫ ВСЁ РАБОТАЛО:
+
+1. 📁 СОЗДАЙТЕ ПАПКУ на рабочем столе (например "Кликер")
+
+2. 📂 РАСПАКУЙТЕ ВСЕ ФАЙЛЫ из архива в эту папку
+
+3. 👇 УБЕДИТЕСЬ ЧТО У ВАС ТАК:
+   ________________________________________
+   Папка "Кликер"
+   └── auto_clicker.exe
+   └── languages/          ← ЭТО ПАПКА!
+        ├── russian.json
+        ├── english.json
+        └── ...
+
+4. ▶️ ЗАПУСТИТЕ auto_clicker.exe
+
+5. 🌍 ПРИ ПЕРВОМ ЗАПУСКЕ выберите язык
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔴 Programma otkryvayetsya na angliyskom? 
-✅ Resheniye: Papka languages ne naydena - prover'te shag 2 
-🔴 Antivirus rugayetsya na .exe fayl? 
-✅ Resheniye: Dobav'te papku s programmoy v isklyucheniya 
-🔴 Programma ne zapuskayetsya?
-✅ Resheniye: Raspakuyte VSE fayly iz arkhiva, ne zapuskayte iz arkhiva
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🌍 PODDERZHIVAYEMYYe YAZYKI 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   🇷🇺 Русский     🇬🇧 English     🇨🇳 中文
-   🇪🇸 Español     🇫🇷 Français    🇩🇪 Deutsch
-   🇯🇵 日本語       🇸🇦 العربية        🇮🇳 हिन्दी
-   🇧🇷 Português
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🎉 SPASIBO ZA SKACHIVANIYe! 🎉 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 ЕСЛИ ПРОГРАММА НА АНГЛИЙСКОМ:
+   ➡️ Значит папка "languages" не рядом с .exe файлом
+
+🛡️ ЕСЛИ АНТИВИРУС РУГАЕТСЯ:
+   ➡️ Добавьте папку с программой в исключения
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌍 10 ЯЗЫКОВ В ПРОГРАММЕ:
+🇷🇺 Русский    🇬🇧 English    🇨🇳 中文
+🇪🇸 Español    🇫🇷 Français   🇩🇪 Deutsch
+🇯🇵 日本語      🇸🇦 العربية    🇮🇳 हिन्दी
+🇧🇷 Português
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📞 ПО ВОПРОСАМ: @ваш_телеграм
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                     УДАЧИ! 🍀
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
