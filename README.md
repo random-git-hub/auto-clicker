@@ -15,15 +15,16 @@
 
 3. 📂 MAKE SURE YOU HAVE THIS STRUCTURE:
 
-   "Clicker" folder                                └── auto_clicker.exe
-                                                       └── languages/          ← THIS IS A FOLDER!
-                                                       ├── russian.json
-                                                       ├── english.json
-                                                       └── ...
+   "Clicker" folder
+   └── auto_clicker.exe
+    └── languages/          ← THIS IS A FOLDER!
+     ├── russian.json
+     ├── english.json
+     └── ...
 
-4. ▶️ RUN auto_clicker.exe
+5. ▶️ RUN auto_clicker.exe
 
-5. 🌍 SELECT YOUR LANGUAGE on first launch
+6. 🌍 SELECT YOUR LANGUAGE on first launch
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
